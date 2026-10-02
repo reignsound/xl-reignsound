@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://reignsoundrecords.github.io/:path*",
+      "permanent": false
+    }
+  ]
+}
